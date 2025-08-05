@@ -69,6 +69,12 @@ titanic-eda-visualizations/
 ### Fare Distribution  
 ![Fare Distribution](fare_distribution.png)
 
+### 🔹 3. Boxplot of Age
+![Boxplot Age](boxplot_age.png)
+
+### 🔹 4. Boxplot of Fare
+![Boxplot Fare](boxplot_fare.png)
+
 ### Heatmap  
 ![Correlation Heatmap](correlation_heatmap.png)
 
